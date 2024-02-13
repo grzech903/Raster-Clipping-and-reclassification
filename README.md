@@ -8,4 +8,5 @@ Therefore, I had to trim the largest countries manually using the gdal library i
 improvements to be made:
 - Apply compression to tiff files 
 -Try to reduce the amount of memory required 
-- implement gdal library 
+- implement gdal library
+- Optimise to speed up calculations 
